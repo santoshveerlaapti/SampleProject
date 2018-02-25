@@ -1,3 +1,4 @@
 Sample File to test the GIT
 second modification
 Branch1 modificaiton
+Master Changes inbetween after Branch2 created and modified
